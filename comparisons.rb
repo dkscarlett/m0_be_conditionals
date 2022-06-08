@@ -112,6 +112,7 @@ loves_to_play && loves_dog_park
 loves_to_play or loves_dog_park
 
 # Determine if the dog loves to play and is a puppy
-loves_to_play and age
+loves_to_play && age
 # What did your final line of code evaluate to? Why do you think that is? Explain.
-# ANSWER:
+# ANSWER: My final line of code produced a true output. I think it did this because the value for age is 1 and the loves_to_play variable is true.
+### Not sure if I was supposed to get a different output, but this final question seems to suggest so..?
